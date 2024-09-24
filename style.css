@@ -1,0 +1,12 @@
+#search-icon {
+  display: none;
+}
+#search-icon2 {
+  display: none;
+}
+@media screen and (min-width: 768px) {
+  #search-icon,
+  #search-icon2 {
+    display: inline;
+  }
+}
